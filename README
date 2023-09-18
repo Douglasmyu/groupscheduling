@@ -1,0 +1,19 @@
+# Project 1 - CPSC 335: Algorithms Engineering
+
+## Group Members:
+Douglas - douglasmyu@csu.fullerton.edu
+Taylor - livingtay77@csu.fullerton.edu
+Shadi - hirbawishadi@csu.fullerton.edu
+
+## Project Description:
+Write an algorithm that takes in your schedule, your daily availability (earliest time, latest time) and
+that of your group member (or members), and the duration of the meeting you want to schedule.
+Time is given and should be returned in military format. For example: 9:30, 22:21. The given times
+(output) should be sorted in ascending order.
+An algorithm for solving this problem involves combing the two sub-arrays into an array containing
+of a set unavailability, with consideration of the daily active periods.
+
+
+
+
+
